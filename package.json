@@ -1,0 +1,20 @@
+{
+  "name": "202204-w2excaseconvert-cristian-bermudez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccbabcn/202204-W2EXCaseConvert-cristian-bermudez.git~.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccbabcn/202204-W2EXCaseConvert-cristian-bermudez.git~/issues"
+  },
+  "homepage": "https://github.com/ccbabcn/202204-W2EXCaseConvert-cristian-bermudez.git~#readme"
+}
